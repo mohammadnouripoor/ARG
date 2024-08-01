@@ -186,7 +186,7 @@ p {
 }
 
 .section {
-    padding: 180px 0;
+    padding: 40px 0;
     position: relative;
     display: block;
 }
@@ -388,4 +388,10 @@ a:hover {
 
 #myBtn:hover {
   background-color: #404040;
+}
+
+.main-logo {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
