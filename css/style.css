@@ -395,3 +395,11 @@ a:hover {
     max-width: 100%;
     height: auto;
 }
+
+.pub-sec ul {
+    list-style-type: disc;
+}
+
+.news-sec ul {
+    list-style-type: disc;
+}
